@@ -14,15 +14,6 @@ Created a Python script that analyzes the financial records of a company to calc
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-Example:
-
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average Change: -2,315
-Greastest Increase in Profits: Feb-2012  ($1170593)
-Greastest Decrease in Profits: Sep-2013  ($-1196225)
 
 --------------------------------------------------------------------------------------------------
 
@@ -40,17 +31,5 @@ Created a Python script that analyzes the votes of a small town and calculate ea
 
 * The winner of the election based on popular vote.
   
-Example: 
 
-Election Results
------------------------
-Total Votes: 3521001
------------------------
-Khan: 63.00% (2218231)
-Correy: 20.00% (704200)
-Li: 14.00% (492940)
-O'Tooley: 3.00% (105630)
------------------------
-Winner: Khan
------------------------
 

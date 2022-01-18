@@ -15,6 +15,7 @@ Created a Python script that analyzes the financial records of a company to calc
 * The greatest decrease in profits (date and amount) over the entire period
 
 Example:
+
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -37,9 +38,10 @@ Created a Python script that analyzes the votes of a small town and calculate ea
 
 * The total number of votes each candidate won
 
-  * The winner of the election based on popular vote.
+* The winner of the election based on popular vote.
   
-  Example: 
+Example: 
+
 Election Results
 -----------------------
 Total Votes: 3521001

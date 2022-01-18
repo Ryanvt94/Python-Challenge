@@ -33,5 +33,7 @@ Created a Python script that analyzes the votes of a small town and calculate ea
 
 * The winner of the election based on popular vote.
   
+<img width="98" alt="PyPoll" src="https://user-images.githubusercontent.com/95891800/149867266-ab4316c5-9288-478c-84fa-57748a8a103b.PNG">
+
 
 

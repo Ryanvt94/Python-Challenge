@@ -14,6 +14,8 @@ Created a Python script that analyzes the financial records of a company to calc
 
 * The greatest decrease in profits (date and amount) over the entire period
 
+<img width="209" alt="pybank" src="https://user-images.githubusercontent.com/95891800/149867185-52f70d46-7e1f-4c8c-bc21-a8cc986b9a03.PNG">
+
 
 --------------------------------------------------------------------------------------------------
 
